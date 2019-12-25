@@ -70,7 +70,7 @@
 
 ### ⭐️ 4.人工智能概率性与用户痛点
 
-自主测试——看图说话
+评分点请大家看图吧
 
 ![嫌疑犯1](https://images.gitee.com/uploads/images/2019/1208/181448_e1291168_1648161.png)
 ![嫌疑犯2](https://upload-images.jianshu.io/upload_images/9746829-9cb60b9381ee1ad2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
