@@ -148,10 +148,9 @@ def Face_attribute_detection():
     ss2 = json.dumps(response2.json())
     print(ss2)
     print(response2.status_code)
-```
 if __name__ == "__main__":
     Face_attribute_detection()
-
+```
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-6921e439d314564f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-8572c7c29b480117.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-1eea0e22f3cf2888.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
