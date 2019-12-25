@@ -115,6 +115,7 @@
 完整代码请点击：https://gitee.com/lynn998/api\_final\_prototype\_20191208/blob/master/AI\_API\_demo.ipynb
 实例代码
 # 人脸属性检测
+```
 import requests
 import base64
 import json
@@ -147,7 +148,7 @@ def Face_attribute_detection():
     ss2 = json.dumps(response2.json())
     print(ss2)
     print(response2.status_code)
-
+```
 if __name__ == "__main__":
     Face_attribute_detection()
 
