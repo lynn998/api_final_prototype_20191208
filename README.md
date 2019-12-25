@@ -155,6 +155,44 @@ if __name__ == "__main__":
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-8572c7c29b480117.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-1eea0e22f3cf2888.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-46fd329edb45637a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+# 人脸关键点描述
+```
+import requests
+import base64
+import json
+
+def Face_key_points_description():
+    image = open('/Users/lynn998/Desktop/嫌疑犯DEMO/嫌疑犯1证件照后.jpg', 'rb')
+    image_read = image.read()
+    image_64_encode = base64.encodestring(image_read).decode('utf-8')
+    ss = json.dumps(
+    {
+        "parameter": {
+            "rsp_media_type": "jpg",
+        },
+        "extra": {},
+        "media_info_list": [{
+            "media_data": image_64_encode,
+            "media_profiles": {
+                "media_data_type":"jpg"
+            },
+            "media_extra": {
+            }
+        }]
+
+    }
+    )
+
+    AIBeauty_url = "https://openapi.mtlab.meitu.com/v1/facedetect?api_key=0_FKVGvWYLNUaPMOlkhlzJExz15NI4i5&api_secret=P1MKgX3GsRkY8EBd3abkEXUutdPh9HYB"
+    print(ss)
+    response2 = requests.post(AIBeauty_url, data=ss)
+    ss2 = json.dumps(response2.json())
+    print(ss2)
+    print(response2.status_code)
+
+if __name__ == "__main__":
+    Face_key_points_description()
+  ```  
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-28d36758f5f76b99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image.png](https://upload-images.jianshu.io/upload_images/9746829-f681712bc59a2135.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
