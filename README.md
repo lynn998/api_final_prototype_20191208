@@ -286,10 +286,10 @@ if __name__ == "__main__":
 | 定价 | 目前查询到美图AI为2000/月，针对少量高QPS用户 | 详细请浏览其官方网站注册登录查看[https://ai.meitu.com/open-platform-admin](https://ai.meitu.com/open-platform-admin) |
 | 可替代的程序库  | 图片质量分析 | 未查询到可替代的程序库 |
 | 图像画质修复 | 未查询到可替代的程序库 |
-| 图像背景去除 | 第一替代程序库：[https://github.com/AKSHAYUBHAT/ImageSegmentation](https://github.com/AKSHAYUBHAT/ImageSegmentation)第二替代程序库：https://github.com/susheelsk/image-background-removal第三替代程序库：[https://github.com/rorodata/background-removal](https://github.com/rorodata/background-removal) |
-| 人脸属性检测 | 第一替代程序库：[https://github.com/unicodeveloper/face-detection](https://github.com/unicodeveloper/face-detection)第二替代程序库：[https://github.com/binLearning/face\_det\_attr](https://github.com/binLearning/face\_det\_attr)第三替代程序库：[https://github.com/ZHUXUHAN/Keras\_Face](https://github.com/ZHUXUHAN/Keras\_Face) |
-| 人脸关键点检测 | 第一替代程序库：[https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)第二替代程序库：[https://github.com/qiexing/caffe-regression](https://github.com/qiexing/caffe-regression)第三替代程序库：[https://github.com/sksq96/cnn-face-recognition](https://github.com/sksq96/cnn-face-recognition)第四替代程序库：[https://github.com/soheillll/Facial-Keypoint-Detection](https://github.com/soheillll/Facial-Keypoint-Detection) |
-| 肢体关键点检测 | 第一替代程序库：[https://github.com/SpikeKing/Human-Pose-Estimation](https://github.com/SpikeKing/Human-Pose-Estimation)第二替代程序库：[https://github.com/renjingc/PosematchAndRecognition](https://github.com/renjingc/PosematchAndRecognition) |
+| 图像背景去除 | 第一替代程序库：[https://github.com/AKSHAYUBHAT/ImageSegmentation](https://github.com/AKSHAYUBHAT/ImageSegmentation) 第二替代程序库：https://github.com/susheelsk/image-background-removal第三替代程序库：[https://github.com/rorodata/background-removal](https://github.com/rorodata/background-removal) |
+| 人脸属性检测 | 第一替代程序库：[https://github.com/unicodeveloper/face-detection](https://github.com/unicodeveloper/face-detection) 第二替代程序库：[https://github.com/binLearning/face\_det\_attr](https://github.com/binLearning/face\_det\_attr) 第三替代程序库：[https://github.com/ZHUXUHAN/Keras\_Face](https://github.com/ZHUXUHAN/Keras\_Face) |
+| 人脸关键点检测 | 第一替代程序库：[https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 第二替代程序库：[https://github.com/qiexing/caffe-regression](https://github.com/qiexing/caffe-regression) 第三替代程序库：[https://github.com/sksq96/cnn-face-recognition](https://github.com/sksq96/cnn-face-recognition) 第四替代程序库：[https://github.com/soheillll/Facial-Keypoint-Detection](https://github.com/soheillll/Facial-Keypoint-Detection) |
+| 肢体关键点检测 | 第一替代程序库：[https://github.com/SpikeKing/Human-Pose-Estimation](https://github.com/SpikeKing/Human-Pose-Estimation) 第二替代程序库：[https://github.com/renjingc/PosematchAndRecognition](https://github.com/renjingc/PosematchAndRecognition) |
 
 ### ⭐️API4.加分项
 
