@@ -103,10 +103,10 @@
 
 # ✨二、PART2 原型
 
-点击进入交互体验：http://lynn998.gitee.io/api\_final\_prototype\_20191208
+点击进入交互体验： http://lynn998.gitee.io/api_final_prototype_20191208
 
-点击进入仓库下载源文件：https://gitee.com/lynn998/api\_final\_prototype\_20191208
-**😭（实现了呀，行行好）😭**如果打开不了可以去仓库看看，它们都在
+点击进入仓库下载源文件：https://github.com/lynn998/api_final_prototype_20191208/raw/master/%E5%AE%89%E9%98%B2%E6%94%BE%E5%A4%A7%E9%95%9C.rp
+**😭（实现了的，行行好）😭**如果打开不了可以去仓库看看，它们都在
 
 ——————————————————————————————————————
 
@@ -138,7 +138,7 @@
 
 ### ⭐️API1.使用水平
 
-完整代码请点击：https://gitee.com/lynn998/api\_final\_prototype\_20191208/blob/master/AI\_API\_demo.ipynb
+完整代码请点击：https://github.com/lynn998/api_final_prototype_20191208/blob/master/AI_API_demo.ipynb
 实例代码
 #### 1.人脸属性检测
 ```
@@ -317,7 +317,7 @@ if __name__ == "__main__":
 
 ### ⭐️API4.加分项
 
-**完整代码请点击：https://github.com/lynn998/api\_final\_prototype\_20191208/blob/master/AI\_API\_demo.ipynb**
+**完整代码请点击：https://github.com/lynn998/api_final_prototype_20191208/blob/master/AI_API_demo.ipynb**
 
  
  
