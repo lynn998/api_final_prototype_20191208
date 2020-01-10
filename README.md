@@ -5,9 +5,9 @@
   <p>基于meitu_API的 安防放大镜 APP</p>
 
 </div>
-> PPT口述已制作成视频，还请各位客官老爷移步百度云：[安防放大镜_带口音版本](https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w)
-链接: https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w 提取码: efrb
-[安防放大镜_无口音版本](https://github.com/lynn998/api_final_prototype_20191208/raw/master/171013057%E5%88%98%E7%82%9C%E8%B1%AA.pptx)
+> PPT口述已制作成视频，还请各位客官老爷移步百度云：[安防放大镜_带口音版本](https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w )
+链接: https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w 提取码: efrb<br>
+[安防放大镜_无口音版本](https://github.com/lynn998/api_final_prototype_20191208/raw/master/171013057%E5%88%98%E7%82%9C%E8%B1%AA.pptx )
 
 > PRD 价值主张设计（目标：多层次多长度版本）
 > 1. 一句话版本<br>
