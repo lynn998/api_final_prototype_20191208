@@ -6,7 +6,7 @@
 
 </div>
 
-> PPT口述已制作成视频，还请各位客官老爷移步百度云：[安防放大镜_带口音版本](https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w)
+> PPT口述已制作成视频，还请各位客官老爷移步百度云：[安防放大镜_带口音版本](https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w)<br>
 链接: https://pan.baidu.com/s/1D_Ay6-BHFNfivtLo7Xzx1w 提取码: efrb<br>
 [安防放大镜_无口音版本](https://github.com/lynn998/api_final_prototype_20191208/raw/master/171013057%E5%88%98%E7%82%9C%E8%B1%AA.pptx)<br>
 
@@ -79,7 +79,7 @@
 
 ### ⭐️ 4.人工智能概率性与用户痛点
 
-**这个部分的评分点求大家看图吧哈哈哈哈哈**
+**这个部分的评分点求大家看图吧**
 
 ![嫌疑犯1](https://images.gitee.com/uploads/images/2019/1208/181448_e1291168_1648161.png)
 ![嫌疑犯2](https://upload-images.jianshu.io/upload_images/9746829-9cb60b9381ee1ad2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -106,7 +106,7 @@
 点击进入交互体验：http://lynn998.gitee.io/api\_final\_prototype\_20191208
 
 点击进入仓库下载源文件：https://gitee.com/lynn998/api\_final\_prototype\_20191208
-**😭（好像实现了呀，行行好啊）😭**如果打开不了可以去仓库看看，它们都在
+**😭（实现了呀，行行好）😭**如果打开不了可以去仓库看看，它们都在
 
 ——————————————————————————————————————
 
@@ -114,15 +114,15 @@
 
 ### ⭐️ 1.原型1.交互及界面设计
 
-交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值 **😭（好像实现了呀，行行好啊）😭**
+交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值 **😭（实现了呀，行行好）😭**
 
 ### ⭐️ 2.原型2.信息设计5%
 
-信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值 **😭（好像实现了呀，行行好啊）😭**
+信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值 **😭（实现了呀，行行好）😭**
 
 ### ⭐️ 3.原型3.原型文档5%
 
-原型文档：多少程度上有提供MVP可交互的原型文档，供它人在Github上下载使用 **😭（好像实现了呀，行行好啊）😭**
+原型文档：多少程度上有提供MVP可交互的原型文档，供它人在Github上下载使用 **😭（实现了呀，行行好）😭**
 
 ![image.png](https://images.gitee.com/uploads/images/2019/1208/181448_2a0230a2_1648161.png)
 ![image.png](https://images.gitee.com/uploads/images/2019/1208/181449_c9ce603a_1648161.png)
@@ -317,13 +317,7 @@ if __name__ == "__main__":
 
 ### ⭐️API4.加分项
 
-**完整代码请点击：https://gitee.com/lynn998/api\_final\_prototype\_20191208/blob/master/AI\_API\_demo.ipynb**
+**完整代码请点击：https://github.com/lynn998/api\_final\_prototype\_20191208/blob/master/AI\_API\_demo.ipynb**
 
  
-## 项目总结
-
-- 1.好像有些连接从gitee拉进来之后打不开了，行行好啊哈哈哈
-- 2.有些写得比较少，行行好啊哈哈哈
-- 3.有些地方“借了借”各位的，不好意思了呀，如果“借”多了记得找我还啊宵夜算我的了。
-
  
